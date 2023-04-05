@@ -2,3 +2,5 @@ sentence-transformers>=2.2.2
 ipykernel>=6.15.0
 pandas>=1.5.3
 seaborn>=0.12.2
+pdfquery>=0.4.3
+beautifulsoup4>=4.12.1
